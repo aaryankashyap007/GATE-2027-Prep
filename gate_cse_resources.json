@@ -1,0 +1,432 @@
+{
+  "title": "GATE CSE Free Resources",
+  "subjects": [
+    {
+      "name": "Operating System",
+      "abbreviation": "OS",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLG9aCp4uE-s17rFjWM8KchGlffXgOzzVP&si=ZMitdCTm8l32csO1"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLIPZ2_p3RNHixlIaarIXGPy-eggJQMxd_&si=RYjiG6Ewmyszn0Mv"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLyqSpQzTE6M9SYI5RqwFYtFYab94gJpWk&si=zMmUw6nYg5o4ZG0A"
+      ],
+      "standard_textbook": [
+        {
+          "title": "Operating Systems by Avi Silberschatz, Greg Gagne, and Peter Baer Galvin (International 9E)",
+          "chapters": [
+            {
+              "id": "os-tb1-ch1",
+              "label": "Ch 2.1-2.5"
+            },
+            {
+              "id": "os-tb1-ch2",
+              "label": "Ch 3"
+            },
+            {
+              "id": "os-tb1-ch3",
+              "label": "Ch 4.1-4.3"
+            },
+            {
+              "id": "os-tb1-ch4",
+              "label": "Ch 4.6"
+            },
+            {
+              "id": "os-tb1-ch5",
+              "label": "Ch 5.1-5.3"
+            },
+            {
+              "id": "os-tb1-ch6",
+              "label": "Ch 6.1-6.10"
+            },
+            {
+              "id": "os-tb1-ch7",
+              "label": "Ch 7"
+            },
+            {
+              "id": "os-tb1-ch8",
+              "label": "Ch 8.1-8.6"
+            },
+            {
+              "id": "os-tb1-ch9",
+              "label": "Ch 9.1-9.6"
+            },
+            {
+              "id": "os-tb1-ch10",
+              "label": "Ch 9.9"
+            },
+            {
+              "id": "os-tb1-ch11",
+              "label": "Ch 10"
+            },
+            {
+              "id": "os-tb1-ch12",
+              "label": "Ch 11.1-11.5"
+            },
+            {
+              "id": "os-tb1-ch13",
+              "label": "Ch 12.1-12.6"
+            }
+          ]
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/32/go2017-os-1",
+        "https://gateoverflow.in/exam/32/go2017-os-2",
+        "https://gateoverflow.in/exam/32/go2017-os-3",
+        "https://gateoverflow.in/exam/148/operating-systems-gate2020-previous-gate-2"
+      ]
+    },
+    {
+      "name": "Computer Organization and Architecture",
+      "abbreviation": "COA",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLG9aCp4uE-s0xddCBjwMDnEVyc523WbA2&si=MhOhWHFeKSPLCc3D"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLG9aCp4uE-s2qCKKu2XD3zDK-NFEvE91n&si=3F_wVgi9yxcNRAGM"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLgHucKw979AvcnTpPNZMZyORdL5HvTr9m&si=45QV0I_l38BhQs8l",
+        "https://youtube.com/playlist?list=PL2F82ECDF8BB71B0C&si=odaLSm9J4S9SPlJf"
+      ],
+      "standard_textbook": [
+        {
+          "title": "Computer Organisation by Carl Hamacher",
+          "chapters": [
+            {
+              "id": "coa-tb1-ch1",
+              "label": "Ch 1.6"
+            },
+            {
+              "id": "coa-tb1-ch2",
+              "label": "Ch 2.1-2.5"
+            },
+            {
+              "id": "coa-tb1-ch3",
+              "label": "Ch 2.9"
+            },
+            {
+              "id": "coa-tb1-ch4",
+              "label": "Ch 2.10"
+            },
+            {
+              "id": "coa-tb1-ch5",
+              "label": "Ch 4.1-4.2"
+            },
+            {
+              "id": "coa-tb1-ch6",
+              "label": "Ch 4.4-4.6"
+            },
+            {
+              "id": "coa-tb1-ch7",
+              "label": "Ch 5.1"
+            },
+            {
+              "id": "coa-tb1-ch8",
+              "label": "Ch 5.2"
+            },
+            {
+              "id": "coa-tb1-ch9",
+              "label": "Ch 5.4-5.8"
+            },
+            {
+              "id": "coa-tb1-ch10",
+              "label": "Ch 5.9.1"
+            },
+            {
+              "id": "coa-tb1-ch11",
+              "label": "Ch 6.1-6.4"
+            },
+            {
+              "id": "coa-tb1-ch12",
+              "label": "Ch 6.7.1"
+            },
+            {
+              "id": "coa-tb1-ch13",
+              "label": "Ch 7"
+            },
+            {
+              "id": "coa-tb1-ch14",
+              "label": "Ch 8.1-8.5"
+            },
+            {
+              "id": "coa-tb1-ch15",
+              "label": "Ch 8.8"
+            }
+          ]
+        },
+        {
+          "title": "Computer Organization and Design: the Hardware/Software Interface by David A Patterson and John L. Hennessy (5E)",
+          "chapters": [
+            {
+              "id": "coa-tb2-ch1",
+              "label": "Ch 1"
+            },
+            {
+              "id": "coa-tb2-ch2",
+              "label": "Ch 2"
+            },
+            {
+              "id": "coa-tb2-ch3",
+              "label": "Ch 4.1-4.9"
+            },
+            {
+              "id": "coa-tb2-ch4",
+              "label": "Ch 4.14"
+            },
+            {
+              "id": "coa-tb2-ch5",
+              "label": "Ch 5.1-5.10"
+            }
+          ]
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/46/computer-architecture",
+        "https://gateoverflow.in/exam/83/computer-architecture-2",
+        "https://gateoverflow.in/exam/153/co-and-architecture-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/154/co-and-architecture-gate2020-previous-gate-2",
+        "https://gateoverflow.in/exam/168/co-and-architecture-gate2020-previous-gate-3",
+        "https://gateoverflow.in/exam/169/co-and-architecture-gate2020-previous-gate-4"
+      ]
+    },
+    {
+      "name": "Computer Network",
+      "abbreviation": "CN",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLC36xJgs4dxHT-TxTy3U1slr5RaBJGaLd&si=2NKdNOM8SCj7GV7m"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLIPZ2_p3RNHim3NUSNOb7ffyhaE5MSkmE&si=K_BGtR_91PzzpPRK"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLbRMhDVUMngf-peFloB7kyiA40EptH1up&si=DrRWF-OoBVLFpV4b"
+      ],
+      "other_video_resources": [
+        {
+          "label": "CN Videos by Jim Kurose (YouTube)",
+          "url": "https://www.youtube.com/@JimKurose/videos"
+        }
+      ],
+      "standard_textbook": [
+        {
+          "title": "Data Communications and Networking by Behrouz A. Forouzan (5E)",
+          "chapters": [
+            {
+              "id": "cn-tb1-ch1",
+              "label": "Ch 1.1-1.3"
+            },
+            {
+              "id": "cn-tb1-ch2",
+              "label": "Ch 2"
+            },
+            {
+              "id": "cn-tb1-ch3",
+              "label": "Ch 3.6"
+            },
+            {
+              "id": "cn-tb1-ch4",
+              "label": "Ch 8-10"
+            },
+            {
+              "id": "cn-tb1-ch5",
+              "label": "Ch 11.1-2"
+            },
+            {
+              "id": "cn-tb1-ch6",
+              "label": "Ch 12"
+            },
+            {
+              "id": "cn-tb1-ch7",
+              "label": "Ch 13.1-13.2"
+            },
+            {
+              "id": "cn-tb1-ch8",
+              "label": "Ch 17.1"
+            },
+            {
+              "id": "cn-tb1-ch9",
+              "label": "Ch 18-19.2"
+            },
+            {
+              "id": "cn-tb1-ch10",
+              "label": "Ch 20-21.2"
+            },
+            {
+              "id": "cn-tb1-ch11",
+              "label": "Ch 23-24.3"
+            },
+            {
+              "id": "cn-tb1-ch12",
+              "label": "Ch 25.1-25.2"
+            },
+            {
+              "id": "cn-tb1-ch13",
+              "label": "Ch 26"
+            }
+          ]
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/49/computer-networks",
+        "https://gateoverflow.in/exam/143/computer-networks-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/144/computer-networks-gate2020-previous-gate-2"
+      ]
+    },
+    {
+      "name": "Compiler Design",
+      "abbreviation": "CD",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS&si=9gh9zkll_uPxONSj",
+        "https://youtube.com/playlist?list=PLIPZ2_p3RNHj8kDhh1OCIzEha8qhzfe1f&si=3N0fjYSTe5c7nM5u"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLIPZ2_p3RNHjy3eH_qRImIs5dVUTpr9ga&si=5qmgBYDkFhvkZgZH"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PL54i8TI-dREaHgsBFNalWnz-bC9CZkOBb&si=G65o3fHjR549Y2OJ"
+      ],
+      "other_video_resources": [
+        {
+          "label": "Compilers Course by Prof. Alex Aiken",
+          "url": "https://www.edx.org/learn/computer-science/stanford-university-compilers"
+        }
+      ],
+      "standard_textbook": [
+        {
+          "title": "Compilers: Principles, Techniques, & Tools (Ravi Sethi, Alfred V. Aho, Monica S. Lam, D. Jeffrey Ullman)",
+          "chapters": []
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/139/go2019-compiler1-parsing",
+        "https://gateoverflow.in/exam/47/compiler-design",
+        "https://gateoverflow.in/exam/151/compilers-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/152/compilers-gate2020-previous-gate-2",
+        "https://gateoverflow.in/exam/167/compilers-gate2020-previous-gate-3"
+      ]
+    },
+    {
+      "name": "Theory of Computation",
+      "abbreviation": "TOC",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLC36xJgs4dxGvebewU4z2CZYo-8nB93E7&si=iKAopfWszFTAf1eL"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLIPZ2_p3RNHhXeEdbXsi34ePvUjL8I-Q9&si=xymd0FQXQQYK6idE"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLbRMhDVUMngcwWkzVTm_kFH6JW4JCtAUM&si=Vzf6zkHe9Ly7_NXi"
+      ],
+      "standard_textbook": [
+        {
+          "title": "An Introduction to Formal Languages and Automata by Peter Linz (6E)",
+          "chapters": [
+            {
+              "id": "toc-tb1-ch1",
+              "label": "Ch 1.2"
+            },
+            {
+              "id": "toc-tb1-ch2",
+              "label": "Ch 1.3"
+            },
+            {
+              "id": "toc-tb1-ch3",
+              "label": "Ch 2-12"
+            },
+            {
+              "id": "toc-tb1-ch4",
+              "label": "Appendix A"
+            }
+          ]
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/48/theory-of-computation",
+        "https://gateoverflow.in/exam/84/theory-of-computation-test-2",
+        "https://gateoverflow.in/exam/86/theory-of-computation-previous-gate-1",
+        "https://gateoverflow.in/exam/149/theory-of-computation-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/150/theory-of-computation-gate2020-previous-gate-2",
+        "https://gateoverflow.in/exam/170/theory-of-computation-gate2020-previous-gate-3",
+        "https://gateoverflow.in/exam/171/theory-of-computation-gate2020-previous-gate-4"
+      ]
+    },
+    {
+      "name": "C-Programming",
+      "abbreviation": "C",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLbE3-5DBkMUkATaUFgDIpBDbfnym0qvsQ&si=tLgWVRmDfwlMCbvj"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLEAYkSg4uSQ2k6GwNhpgSHodGT8wfvgwu&si=3Yo1XGiLn7ZURbpm"
+      ],
+      "standard_textbook": [
+        {
+          "title": "The C Programming Language by Brian Kernighan and Dennis Ritchie (2E)",
+          "chapters": [
+            {
+              "id": "c-tb1-ch1",
+              "label": "Ch 1-8"
+            }
+          ]
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/39/go2017-programming-1",
+        "https://gateoverflow.in/exam/80/go_programming-test-2",
+        "https://gateoverflow.in/exam/181/programming-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/182/programming-gate2020-previous-gate-2"
+      ]
+    },
+    {
+      "name": "Data Structures",
+      "abbreviation": "DS",
+      "youtube_videos": [
+        "https://youtube.com/playlist?list=PLIC0AxWOdm5BvHpI_AtPqqjoADnSqcYgp&si=q_Qps7uYmU2RjuLr"
+      ],
+      "revision_and_pyq_video_solution": [
+        "https://youtube.com/playlist?list=PLG9aCp4uE-s3Rs4AjzG0VcXQCggmOJJ6W&si=YgSf-sgQNlmT2tBd"
+      ],
+      "nptel_lectures": [
+        "https://youtube.com/playlist?list=PLBF3763AF2E1C572F&si=oiRSnIiN4ntMIPQL"
+      ],
+      "standard_textbook": [
+        {
+          "title": "Data Structures And Algorithms by Narasimha Karumanchi",
+          "chapters": []
+        }
+      ],
+      "topicwise_pyqs": [
+        "https://github.com/GATEOverflow/GO-PDFs/releases/tag/gatecse-2025"
+      ],
+      "free_tests": [
+        "https://gateoverflow.in/exam/52/data-structure-set-2",
+        "https://gateoverflow.in/exam/177/data-structures-gate2020-previous-gate-1",
+        "https://gateoverflow.in/exam/178/data-structures-gate2020-previous-gate-2",
+        "https://gateoverflow.in/exam/179/data-structures-gate2020-previous-gate-3",
+        "https://gateoverflow.in/exam/180/data-structures-gate2020-previous-gate-4"
+      ]
+    }
+  ]
+}
